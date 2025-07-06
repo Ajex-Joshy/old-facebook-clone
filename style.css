@@ -1,0 +1,241 @@
+body {
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.header {
+    width: 100%;
+    height: 100px;
+    background: #3b5a98;
+}
+.logo {
+    width: 50%;
+    padding-top: 35px;
+    float: left;
+}
+.login {
+    width: 50%;
+    float: left;
+}
+.logo-text {
+    color: #f1ffff;
+    font-size: 45px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 170px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.login-button {
+    margin-left: 15px;
+    background: #4766ae;
+    color: #f1ffff;
+    border-color: black;
+    border-width: 1px;
+    height: 22px;
+    width: 60px;
+    font-size: 13px; 
+    cursor: pointer;  
+}
+.login-button:hover {
+    background: #5072bf;
+}
+.login-label {
+    color: #e8eaea;
+    font-size: 12px;
+}
+.forgotten {
+    color: #98b0e2;
+    text-decoration: none;
+}
+.form-table {
+    margin-left: 120px;
+    margin-top: 25px;
+    font-size: 13px;
+}
+.main-body {
+    width: 100%;
+    height: 748px;
+    background: linear-gradient(white, #D3D8E8);
+}
+.left-section {
+    width: 40%;
+    padding-left: 170px;
+    padding-top: 40px;
+    float: left;
+}
+.right-section {
+    width: 48%;
+    height: 800px;
+    float: left;
+}
+.para {
+    font-size: 22px;
+    font-weight: bold;
+    color: #123553;
+}
+.heading {
+    margin-left: 70px;
+    font-size: 40px;
+}
+.para2 {
+    margin-left: 70px;
+    margin-top: -25px;
+    font-size: 23px;
+}
+.name {
+    margin-left: 140px;
+}
+.first-name {
+    width: 230px;
+    float: left;
+}
+.surname {
+    width: 200px;
+    float: left;
+}
+.name-box {
+    margin-left: -70px;
+    width: 210px;
+    height: 35px;
+    border: 2px solid;
+    border-color: #c8cace;
+    font-size: 20px;
+    color: #9a9a9a;
+    border-radius: 4px;
+}
+.mobile {
+    margin-left: 140px;
+}
+.mob-pass {
+    margin-left: -70px;
+    margin-top: 10px;
+    width: 440px;
+    height: 35px;
+    border: 2px solid;
+    border-color: #c8cace;
+    font-size: 20px;
+    color: #9a9a9a;
+    border-radius: 4px;
+}
+.password {
+    margin-left: 140px;
+}
+.birthday-head {
+    width: 600px;
+    height:90px;
+    float: left;
+}
+.text-birthday {
+    height: 40px;
+}
+.birthday-text {
+    margin-left: 70px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #9a9a9a;
+    float: left;
+}
+.date {
+    height: 50px;
+    width: 500px;
+}
+.day {
+    height: 50px;
+    width: 60px;
+    float: left;
+    margin-left: -70px;
+}
+.month {
+    height: 50px;
+    width: 85px;
+    float: left;
+    margin-left: -5px;
+}
+.year {
+    height: 50px;
+    width: 100px;
+    float: left;
+}
+
+.select-day {
+    height: 30px;
+    width: 60px;
+    margin-top: 6px;
+    border: 1px solid;
+    border-color: #cecfd1;
+    font-size: 14px;
+}
+
+.select-month {
+    height: 30px ;
+    width: 80px;
+    margin-top: 6px;
+    border: 1px solid;
+    border-color: #cecfd1;
+    font-size: 14px;
+}
+.select-year {
+    height: 30px ;
+    width: 70px;
+    margin-top: 6px;
+    border: 1px solid;
+    border-color: #cecfd1;
+    font-size: 14px;
+}
+.qicon {
+    color: #626571;
+    font-size: 17px;
+    margin-left: 85px;
+    margin-top: -25px;
+}
+.gender {
+    width: 600px;
+    height:90px;
+    float: left;
+}
+.radio-buttons {
+    width: 600px;
+    height:70px;
+    float: left;
+    margin-left: 55px;
+    margin-top: -10px;
+
+}
+.glabel {
+    font-size: 18px;
+    font-weight: 1px;
+}
+.gbutton {
+    zoom: 1.3;
+    border: 1px solid;
+    border-color: black;
+    margin-left: 15px;
+}
+.policy {
+    margin-left: 70px;
+    margin-top: -13px;
+    width: 600px;
+    height:70px;
+    float: left;
+}
+.policy-text {
+    color: #6f727b;
+    font-size: 13px;
+}
+.submit-button {
+    margin-left: 70px;
+    margin-top: 15px;
+    width: 600px;
+    height:70px;
+    float: left;
+}
+.sbutton {
+    width: 200px;
+    height: 42px;
+    background: linear-gradient(#79af69, #446d36);
+    color: rgb(222, 221, 221);
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid;
+    border-color: #45663b;
+    border-radius: 4px;
+}
